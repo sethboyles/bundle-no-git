@@ -1,0 +1,286 @@
+== 1.0.0rc3 ==
+
+* Forward-port fixes from 0.9.1
+
+== 1.0.0rc0 ==
+
+* Split out application framework support to separate gems.
+    This will allow more precise dependency constraints between known working versions of application frameworks (Rails) and the plugin to add support for the framework, hopefully reducing confusion and increasing reliability.
+
+* All tests pass in ruby 1.9.2
+
+== 0.9.1 ==
+
+* Fixes issue introduced by diagnoser. (Alex Southgate)
+
+== 0.9.0 ==
+
+* Cucumber-rails 1.0.0 is supported (Stephen Bannasch)
+* Workaround for rubygems bug require (Stephen Bannasch)
+* RSpec 1.x and >= 2 support (David Chelimsky)
+* Specs use rspec 2.6 conventions (David Chelimsky).
+
+== 0.9.0rc7 ==
+
+* Resolved: Gem.latest_load_paths workound didn't do what it was expected to, and wasn't backwards compatible with earlier rubygems.
+
+== 0.9.0rc6 ==
+
+* Fixes specs and features to run on Ruby 1.9.2
+* No longer depend on Gem.latest_load_paths, as it is deprecated (and broken) with rubygems 1.8.0
+* Removes gemspec deprecated default_executable setting (Duff OMelia)
+* Doc updates (Richard Schneeman)
+
+== 0.9.0rc5 ==
+
+* Never expire magazine slaves (windows / jruby)
+
+== 0.9.0rc4 ==
+
+* Cucumber 0.9.0 support (Matt Wynne, Brian Cardarella)
+
+* Windows spork fixes
+
+* Fixes bug String#match? is not a method (thanks, Adam Anderson)
+
+
+== 0.9.0 RC3 ==
+
+* longer instructions in the bootstrap file (Jo Liss)
+
+* Remove random 'spookie' line (how did it get there? It's spookie.)
+
+* require date for Date.today as some instances are found without it loaded
+
+* show output each time spork is invoked
+
+* jruby friendlier / windows friendlier (rogerdpack)
+
+== 0.9.0 RC2 ==
+
+* ignore exceptions raised by ActiveRecord establish_connection
+* A few issues with integration tests resolved
+
+== 0.9.0 RC ==
+
+* Rails 3.0 compatibility.  (not backwards compatible, right now.  For rails 2.x, use spork 0.8.x)
+
+(TODO: extract rails framework support into rspec-rails.  They really should be separate.)
+
+== 0.8.4
+
+* Add adapter for Padrino (Elliot Winkler)
+* Fix the diagnoser so that when it overrides Kernel#require it doesn't step on Bundler's toes (Elliot Winkler)
+* show verbose error when failing to install win32-process gem (Tim Harper)
+
+== 0.8.3
+
+* addresses an issue where spork conditional dependency installation would unnecesarily fail
+
+== 0.8.2
+
+* Ruby 1.9.1 windows support (Donald Parish)
+
+== 0.8.1
+
+* bugfix: prevent double run functionality didn't work on Windows. (thanks cbaclig)
+
+== 0.8.0
+
+* Windows support (Contributed by Donald Parish, Roger Pack)
+
+== 0.7.8
+
+* Experimental rails-reloader snippet added.
+
+== 0.7.7
+
+* prevent exceptions not caught from invoking Prefork at_exit hooks
+* process at_exit hooks trapped inside of an each_run in reverse order, similar to Kernel#at_exit
+
+== 0.7.6
+
+* Kernel#at_exit hooks defined during a run (child process) are called at the termination of said process.  (Kernel#at_exit hooks defined during pre-fork initialization aren't called until the server shuts down)
+
+== 0.7.4
+
+* output tested rails versions to TESTED_RAILS_VERSIONS.txt
+* bugfix: "Custom helper aren't found when running spork"
+* bugfix: ruby-debug no longer blows up if breakpoint occurs during preload phase
+* more descriptive LoadError for spork/ext/ruby-debug
+
+== 0.7.3
+
+== fixes
+
+* removed unneeded require 'test-unit' (Aslak Hellesoy)
+
+== 0.7.2
+
+== fixes
+
+* prevent more connection errors from destroying the debug client listener loop
+* fix lock on second encounter of 'debugger' statement
+* prevent situation where debugger stops functioning if connection is dropped by ctrl-c or other forceful means.
+
+== 0.7.1
+
+== fixes
+
+* allow normal debugger to operate if tests not run within spork
+
+== 0.7.0
+
+== features
+
+* Experimental ruby-debug support for spork.  See features/spork_debugger.feature for usage.  May not work in certain setups, please report any issues with it!
+
+== 0.6.3
+
+== fixes
+
+* the regression fix in 0.6.2 was not actually a bug with spork, but a bug with the test framework integration, and fixing it this way broke cucumber and rspec. doh! (sorry)
+
+== 0.6.2
+
+== Bug-fix
+
+* fixes regression where entry point was not being loaded (which basically rendered Spork speed gains non-existent)
+* prevent the client from listening for DRb calls
+
+== 0.6.1
+
+== Bug-fix
+
+* fixes regression where abort wasn't working.
+
+== 0.6.0
+
+== Features
+
+* auto-load spork supplementary test_framework gems. This will allow anyone to release a gem that enables support for a given test framework. (spork-testunit)
+
+=== Notably
+
+* refactoring. RunStrategy extracted from server, paving the way for different ways of running tests (windows support)
+
+== 0.5.11
+
+=== Bugfixes
+
+* bugfix: no-longer load cucumber when rspec is being used
+
+=== Notably
+
+* refactoring. TestFramework class extracted from Server (should've been that way from the beginning). Runner no longer handling TestFramework selection logic, extracted that to a factory method. Hurray for refactoring.
+
+== 0.5.10
+
+Failed release. Github doesn't allow one to repent of a failed release, so, here it is.  It's exactly the same as 0.5.9
+
+== 0.5.9
+
+=== Bugfixes
+
+* bugfix: More fixes for Cucumber 0.4.
+
+== 0.5.8 2009-08-13
+
+ === Bugfixes
+ 
+ * bugfix: Add compatibility for Cucumber 0.4.
+
+== 0.5.7 2009-06-17
+
+ === Bugfixes
+ 
+ * bugfix: Spork was allowing view eager-loading to happen during prefork in Rails 2.2.x, 2.3.x
+
+== 0.5.6 2009-06-10
+
+ === Bugfixes
+ 
+ * bugfix: cucumber was logging to log/test.log, even though RAILS_ENV 'features' was specified
+
+== 0.5.5 2009-06-10
+
+ === Bugfixes
+ 
+ * Rather than failing silently, Spork aborts the current running test process when a new run request is sent.
+
+== 0.5.4 2009-06-08
+
+ === Bugfixes
+ 
+ * ApplicationHelper delayed loading was causing methods from Rails ApplicationHelper included modules weren't being registered in controller specs.  Fixed.
+
+== 0.5.3 2009-06-08
+
+ === Bugfixes
+ 
+ * Spork.expanded_caller was flawed, and was causing a very strange regression fix where Spork.each_run block wouldn't load if it happened to occur on line 65.
+
+== 0.5.2 2009-06-08
+
+ === New Features
+ 
+ * Cleaner backtrace in diagnostic mode
+ 
+ === Bugfixes
+ 
+ * Cucumber env.rb (and RSpec spec_helper.rb) are now able to set the environment via ENV['RAILS_ENV'] if they wish.
+ * Rails config/routes.rb is no longer cached
+ * Unknown application frameworks no longer blow up if not spork bootstrapped
+
+== 0.5.1 2009-06-05
+
+ === Bugfixes
+
+ * "Trapped" ApplicationController loading wasn't working in Rails 2.1.0.
+ * Rails 2.0.2 blew up.
+ * Rails 2.3.2, 2.2.2, 2.1.2, 2.1.1, 2.1.0, 2.0.2 are all verified and tested (rake test_rails tests all 2.x rails gems you've installed)
+
+== 0.5.0 2009-06-05
+
+ === New Features
+
+ * Diagnostic mode: run 'spork -d' to find out which project files will be preloaded, and where they are being loading from.
+ * Better Rails integration: automatically delay loading of ApplicationController, observers, and entire app folder.  Also, automatically re-establish the database connection each run if ActiveRecord is being used.
+ * Cucumber feature to test Spork from end to end (integrating with Rails)
+
+== 0.4.4 2009-06-01
+
+ === New Features
+ 
+  * Return the result of run_tests by shipping it through a Unix socket pair
+
+ === Bugfixes
+ 
+  * Prevent at_exit blocks from being run inside the child (fixes the duplicate run attempts bug)
+
+== 0.4.3 2009-05-30
+
+  * Actually include MIT-License in the gem
+
+== 0.4.2 2009-05-30
+
+  * MIT-License
+
+== 0.4.0 2009-05-29
+ === New Features
+
+  * Ctrl-c kills the running specs if running, and the server if not.
+  * Support for Cucumber
+  * More tests
+
+== 0.3.x (Git)
+ === New Features
+
+ === Bugfixes
+
+== 0.3.1 2009-05-25
+  * Extracted bin logic into Runner file, improved requiring and load path setup, and cleaned up file organization. (Ben Mabey)
+
+== 0.3.0 2009-05
+  * Initial release with SpecServer, Bootstraper, and basic option parsing. (Tim Harper)
+

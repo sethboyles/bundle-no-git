@@ -1,0 +1,4 @@
+source 'http://rubygems.org'
+
+gem 'spork', git: 'https://github.com/sporkrb/spork', ref: '224df49'
+

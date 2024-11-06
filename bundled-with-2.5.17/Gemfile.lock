@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/sporkrb/spork
+  revision: 224df492657e617a0c93c0319e78f0eefee5b636
+  ref: 224df49
+  specs:
+    spork (1.0.0rc4)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  spork!
+
+BUNDLED WITH
+   2.5.17

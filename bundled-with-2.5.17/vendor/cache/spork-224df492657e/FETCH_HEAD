@@ -1,0 +1,177 @@
+69e0ecf6b35bb2c369df6fbe80286f094655a360		branch 'extract' of https://github.com/sporkrb/spork
+224df492657e617a0c93c0319e78f0eefee5b636		branch 'master' of https://github.com/sporkrb/spork
+9a7757775b2bd74ee8aa6dac58ddacda0f719292		branch 'modernize-wip' of https://github.com/sporkrb/spork
+cde3cebffa8e5d89730fc620db36274317fa29b8		branch 'msg' of https://github.com/sporkrb/spork
+52975166dc587b70dbf6bd49b7dd72a8764a675d		branch 'socket_pair' of https://github.com/sporkrb/spork
+2eaf0394ee0e2126b249588cf37912cadc9090f0		branch 'v0.8.x' of https://github.com/sporkrb/spork
+3295ddb36c8ee7c02b730180b3b7f14acea01259		branch 'v0.9.x' of https://github.com/sporkrb/spork
+4a7be40dc84273238629f105ccc547189159dbcf		'refs/pull/101/head' of https://github.com/sporkrb/spork
+b589c59472798e2a4fee2f0a620943908d41f025		'refs/pull/104/head' of https://github.com/sporkrb/spork
+3a32e65ce773a1969edf9d458fbdc0c349b1fcc5		'refs/pull/104/merge' of https://github.com/sporkrb/spork
+b8e1b57fb4f22ca825c32e3690f03f0b1a05a692		'refs/pull/106/head' of https://github.com/sporkrb/spork
+3e0a026ee203c46c5a247da0c96fb79461c53ef4		'refs/pull/106/merge' of https://github.com/sporkrb/spork
+3229ebb68870000eee9029c0da33582838fc1b95		'refs/pull/113/head' of https://github.com/sporkrb/spork
+037e22b1e998f7bb94622b67a193a6eb27216512		'refs/pull/113/merge' of https://github.com/sporkrb/spork
+9125062ea1e171b719824aeff630cfbf262baa94		'refs/pull/116/head' of https://github.com/sporkrb/spork
+ca3f082c08c45488ecac57ec6e59407009af0104		'refs/pull/116/merge' of https://github.com/sporkrb/spork
+85dc4d6b2fba3662785927aae96f35bb1870021b		'refs/pull/120/head' of https://github.com/sporkrb/spork
+479175cf705efaa1407203b7ffa81cf2ac7df42b		'refs/pull/120/merge' of https://github.com/sporkrb/spork
+c4a3819b83b862aa14143887cfdb798f0695bbfc		'refs/pull/121/head' of https://github.com/sporkrb/spork
+20e37283cb53959a866adfef8fe88f09532d8cb0		'refs/pull/121/merge' of https://github.com/sporkrb/spork
+bbc59e460d48352c368cc61cba82b145ab8722dc		'refs/pull/124/head' of https://github.com/sporkrb/spork
+1a6898756a6e37a1bfe6880d4f529629aad2ca38		'refs/pull/124/merge' of https://github.com/sporkrb/spork
+e72c77b3f0f9e2381118de196b9c2fd37a572e86		'refs/pull/127/head' of https://github.com/sporkrb/spork
+c36fb82670e12ff2064483998b22c324920291aa		'refs/pull/127/merge' of https://github.com/sporkrb/spork
+9ee5643d0db01f0a0d32b4420a7cbf83daa3ea2b		'refs/pull/136/head' of https://github.com/sporkrb/spork
+9cb2add5b21f303f8c68448550867ca14e99993c		'refs/pull/136/merge' of https://github.com/sporkrb/spork
+56546891b6593e758bbd61d9785a1e52e0602e41		'refs/pull/137/head' of https://github.com/sporkrb/spork
+8e0796093b25446d4b47b1c2c5274b1db35b55eb		'refs/pull/137/merge' of https://github.com/sporkrb/spork
+0606ae854d37cbf7d4ebca366be6b280c9d878bb		'refs/pull/139/head' of https://github.com/sporkrb/spork
+59e00f4521fbb270c77b175903244559722b3922		'refs/pull/139/merge' of https://github.com/sporkrb/spork
+f8351ae63110869d0f747d3adea055e253da38eb		'refs/pull/140/head' of https://github.com/sporkrb/spork
+719f95891bb2e5547bad65410d46a75c260f0ecd		'refs/pull/140/merge' of https://github.com/sporkrb/spork
+5aa9cfa32add842dd2e9b773779a5563a2b84c88		'refs/pull/142/head' of https://github.com/sporkrb/spork
+2cf4c84bdf1f8a4385dc0c3d3273d344788720a4		'refs/pull/142/merge' of https://github.com/sporkrb/spork
+96790b7e5131fbd4bb96b7ea37559341ce57ffd8		'refs/pull/155/head' of https://github.com/sporkrb/spork
+2beaa8dd12a77fdc2bb89f9775b2882f1f494838		'refs/pull/155/merge' of https://github.com/sporkrb/spork
+e910c1cf0f22a6a42e196a36c071a97eb0a99e52		'refs/pull/163/head' of https://github.com/sporkrb/spork
+2720dfa8c1cf835aa2563c433ffa63a46e3c24d9		'refs/pull/163/merge' of https://github.com/sporkrb/spork
+6681aa3dc377c3f8a11f199bd9665b377483c2ab		'refs/pull/168/head' of https://github.com/sporkrb/spork
+a4cbce23f5816f8d9ddfcc079d82183dedf9ae0f		'refs/pull/168/merge' of https://github.com/sporkrb/spork
+95083cf016edad50e2400d5daaac56e63007a3aa		'refs/pull/169/head' of https://github.com/sporkrb/spork
+cd0454747f20a00c1d1b38f1f2afe7a46611fd89		'refs/pull/169/merge' of https://github.com/sporkrb/spork
+4a9a778d86b94893354611702a85fc0b6b597a6d		'refs/pull/170/head' of https://github.com/sporkrb/spork
+2f0a1e6d14cf1ec5fc1ec4a05b21db4f813ed40c		'refs/pull/170/merge' of https://github.com/sporkrb/spork
+b84075eb93841f215badfcfb01726961a41d09b8		'refs/pull/171/head' of https://github.com/sporkrb/spork
+b36e46761d1bb914f21620855c60e052cfbc19f2		'refs/pull/171/merge' of https://github.com/sporkrb/spork
+bf4348cf1a39125d85be333099002a2a00105df0		'refs/pull/175/head' of https://github.com/sporkrb/spork
+6177d451922697bdef2532b93684a6afaa53dfd2		'refs/pull/175/merge' of https://github.com/sporkrb/spork
+6bc8040d26b80497f516e02bf45ac6bb61541883		'refs/pull/177/head' of https://github.com/sporkrb/spork
+3033660ea075536bd7f2c86ab6be5ad999488ff2		'refs/pull/177/merge' of https://github.com/sporkrb/spork
+be6828a1baed52607ea39c8a560fbdf64ebb7101		'refs/pull/178/head' of https://github.com/sporkrb/spork
+8890efbcc43ac22fe52a2083634daf7f1201141f		'refs/pull/178/merge' of https://github.com/sporkrb/spork
+984b3cf7ff9dd5f0a18b60e9f9d6a3c68cfd753f		'refs/pull/183/head' of https://github.com/sporkrb/spork
+7eb05ba64aacfc02e2fe78d9ada94eac042a4791		'refs/pull/183/merge' of https://github.com/sporkrb/spork
+dfd1aeedabca04dffe5c5936b06c48dd1ac1237d		'refs/pull/189/head' of https://github.com/sporkrb/spork
+1e4a7c0b8bc1021aaeacd3684e2316f7dab3a320		'refs/pull/189/merge' of https://github.com/sporkrb/spork
+c4081f0c5d600850781c19fbdae575ca4d3fff27		'refs/pull/196/head' of https://github.com/sporkrb/spork
+b3811e540666f5ffbdf7f9eade0977a8d95b13ed		'refs/pull/196/merge' of https://github.com/sporkrb/spork
+65ac68acf20918c16cfa5fcebeb18ff94454e76b		'refs/pull/203/head' of https://github.com/sporkrb/spork
+23db9d1a5731771971ca3827dfd8831156f00811		'refs/pull/203/merge' of https://github.com/sporkrb/spork
+c87c86a905115b0d55c30c9b50b3309b76a82ea3		'refs/pull/213/head' of https://github.com/sporkrb/spork
+ed9629488f66f6c278fe9a1267dac3189cf70d65		'refs/pull/213/merge' of https://github.com/sporkrb/spork
+e9b3f7c4fd15460270dbe2db670faf0715cd03db		'refs/pull/214/head' of https://github.com/sporkrb/spork
+f1a8e66896fcd68da86a9e2855c67a92bb72653c		'refs/pull/214/merge' of https://github.com/sporkrb/spork
+a34a51968a99ac5a77acacafa595ec73cc136c78		'refs/pull/216/head' of https://github.com/sporkrb/spork
+699144a7915dfa5f05a8b735262d127217ffdb37		'refs/pull/216/merge' of https://github.com/sporkrb/spork
+05ab3c69a4732a4babc2cb5a501a67a68e629173		'refs/pull/217/head' of https://github.com/sporkrb/spork
+ef15933682422e400518c889db7adc63379f6f8c		'refs/pull/217/merge' of https://github.com/sporkrb/spork
+ff41fb5daa7b4c111e3f4f76be28a5ddde47c9c7		'refs/pull/219/head' of https://github.com/sporkrb/spork
+659a181df33dbe30e99836dce4a9f6fdb725f1b1		'refs/pull/219/merge' of https://github.com/sporkrb/spork
+63b612ae4d9cfdd05fa280831214390611885ae5		'refs/pull/220/head' of https://github.com/sporkrb/spork
+03c9f86637ce8f940753850b568daa1d06e65375		'refs/pull/220/merge' of https://github.com/sporkrb/spork
+f14d98fa6c0055f27b19cca1d5025866be9381f6		'refs/pull/222/head' of https://github.com/sporkrb/spork
+20f5ce278b796c9b4ccc04659fdbab3ec34af439		'refs/pull/222/merge' of https://github.com/sporkrb/spork
+24d930234836c5d87ff5511a2c8442803e646c9b		'refs/pull/225/head' of https://github.com/sporkrb/spork
+b8c74389d2cdee2131d97683ddbf2efb068bf868		'refs/pull/225/merge' of https://github.com/sporkrb/spork
+821674daadb5d98a0c5716cdfa882a7683241dc0		'refs/pull/228/head' of https://github.com/sporkrb/spork
+c6f801fc501a938709e2a829b17239ee4a109551		'refs/pull/228/merge' of https://github.com/sporkrb/spork
+146f466d57db87719486ecaf54e6f5ca4364e79d		'refs/pull/230/head' of https://github.com/sporkrb/spork
+651b13afdd61deed117353b73b6990bb9e149d52		'refs/pull/230/merge' of https://github.com/sporkrb/spork
+b0fec8b91755992633a57bf32e938d94e4a9275f		'refs/pull/233/head' of https://github.com/sporkrb/spork
+8b50bb32fb73e8e63b6c043cc9c7a9f15d672c76		'refs/pull/233/merge' of https://github.com/sporkrb/spork
+1ddf0897f925914db37b91e4d4cb90c6346f60e1		'refs/pull/235/head' of https://github.com/sporkrb/spork
+8e832be3b7ad9e570091e535fcd2d4aaf133bd2d		'refs/pull/235/merge' of https://github.com/sporkrb/spork
+55fb3298bc7d327c8c8ac7e0c2463a1ee0290e4e		'refs/pull/236/head' of https://github.com/sporkrb/spork
+3392c4f13967aca26f179846fa760dc73f0b69f1		'refs/pull/236/merge' of https://github.com/sporkrb/spork
+9ba763f1a2fb0fb998849cfba017670ffa5d09a7		'refs/pull/237/head' of https://github.com/sporkrb/spork
+7e0319439da85e77494246d06e0d6c68306940eb		'refs/pull/237/merge' of https://github.com/sporkrb/spork
+25363a9947a9085a14d6ef9b2b908a1ed52e757a		'refs/pull/238/head' of https://github.com/sporkrb/spork
+31fc46b13f0ece22dde391cf5e72a19851eb84c0		'refs/pull/238/merge' of https://github.com/sporkrb/spork
+449d6e8280b849d5c5f4c4aee58843946c6a4444		'refs/pull/240/head' of https://github.com/sporkrb/spork
+b31f3bb65fdec0d4579ee3cf31e0eb5ba8ba0a5e		'refs/pull/240/merge' of https://github.com/sporkrb/spork
+a54cf46f1efa9c471d10bea45128a0151c4da8a5		'refs/pull/241/head' of https://github.com/sporkrb/spork
+6bf7eaacf68d80e29d7c4013d54f8a5a177ee8a7		'refs/pull/241/merge' of https://github.com/sporkrb/spork
+24d930234836c5d87ff5511a2c8442803e646c9b		'refs/pull/242/head' of https://github.com/sporkrb/spork
+cbb4818bca47a52b0f937abe8f790e440e3e3e3d		'refs/pull/242/merge' of https://github.com/sporkrb/spork
+bf981475eb2ae2c74dc57702f78109db8690529f		'refs/pull/243/head' of https://github.com/sporkrb/spork
+d96b8eb498e59dfcc0e0cba89160442f2ff1f630		'refs/pull/243/merge' of https://github.com/sporkrb/spork
+a82ab9a7e145c5caa37d553f5a250738c38be705		'refs/pull/244/head' of https://github.com/sporkrb/spork
+e2610fa217bb7a13df9f1a8e1669d4ed60a05d9b		'refs/pull/244/merge' of https://github.com/sporkrb/spork
+bd143c07362890dadc2415ca3d4b3257fcf0f0cc		'refs/pull/246/head' of https://github.com/sporkrb/spork
+b85b8fc72369028deb6f378bf944868ae5017710		'refs/pull/246/merge' of https://github.com/sporkrb/spork
+9bad916222dddf6691e0a2e63f4256683000b104		'refs/pull/249/head' of https://github.com/sporkrb/spork
+3f097258ee29ac2cf4a98eb54a9a28f6424b7a77		'refs/pull/253/head' of https://github.com/sporkrb/spork
+650ad5a5d737bc1cc2e2e56462d8fcc235dd5838		'refs/pull/253/merge' of https://github.com/sporkrb/spork
+ec352b1ce316d2bf9ff3357ecbecd7dc35732b05		'refs/pull/254/head' of https://github.com/sporkrb/spork
+83dac7a612d1f2be6f8c6476add6f67c55175ba4		'refs/pull/254/merge' of https://github.com/sporkrb/spork
+e1c5ac94e368e9fad5b123631b25ee56f1263f7d		'refs/pull/255/head' of https://github.com/sporkrb/spork
+c2c3475f1144f298b41eed76792a7e634f4caf75		'refs/pull/258/head' of https://github.com/sporkrb/spork
+679a6de0a311e764f279339fdb702cc853cacd3c		'refs/pull/258/merge' of https://github.com/sporkrb/spork
+6e990a830cb8269100b37d8b70d782c03dd0ae38		'refs/pull/259/head' of https://github.com/sporkrb/spork
+8d24df4458bef4d0ebb824a8dcf82fd80bf20282		'refs/pull/259/merge' of https://github.com/sporkrb/spork
+adcfe43bc828f4d54786107b45964ebfd0074de8		'refs/pull/260/head' of https://github.com/sporkrb/spork
+847d839a63ab8fc7a8ab6c039897307276d626de		'refs/pull/260/merge' of https://github.com/sporkrb/spork
+b1fb3b8f4e912f163c3a9a2349a21c00fd485344		'refs/pull/263/head' of https://github.com/sporkrb/spork
+4bbcf0ee55097f3b6ed67f991f3b5217dec11950		'refs/pull/263/merge' of https://github.com/sporkrb/spork
+49a8109be60540f8a6934223b1104e27b41eae92		'refs/pull/266/head' of https://github.com/sporkrb/spork
+c306e1fd110ae9b68924fb9f7cd07ead39ad07d4		'refs/pull/266/merge' of https://github.com/sporkrb/spork
+1cdc69b8742c70a6b046d39fb6c308eb9b70d71c		'refs/pull/267/head' of https://github.com/sporkrb/spork
+cf9aeb12b34babd037812176fe3100565c85a190		'refs/pull/48/head' of https://github.com/sporkrb/spork
+7ebdd8115d846af47769cf6b4a230d749e2709f1		'refs/pull/49/head' of https://github.com/sporkrb/spork
+ad4274ca48bd0c236863a26964fc71cf482ff5cd		'refs/pull/49/merge' of https://github.com/sporkrb/spork
+9cd96edc822f9ffa596d19779a49703ffae25411		'refs/pull/57/head' of https://github.com/sporkrb/spork
+bd035985babae0455e93444446a6ce6e7a543ff3		'refs/pull/57/merge' of https://github.com/sporkrb/spork
+63761d5cb9e00817e9f1508d00784f22382aac32		'refs/pull/65/head' of https://github.com/sporkrb/spork
+6f3b0097aa242dbfd27d85fb7d54b432c1c731b9		'refs/pull/65/merge' of https://github.com/sporkrb/spork
+6bc66127f47801ea990219fdbe30968f5b553c44		'refs/pull/73/head' of https://github.com/sporkrb/spork
+26dd725b6f9d4dae0b462813f03cea897296e343		'refs/pull/73/merge' of https://github.com/sporkrb/spork
+89d9c656c5fb1072b98864d6917d36f5b8645073		'refs/pull/80/head' of https://github.com/sporkrb/spork
+6abdfbda34592e93124fa7e30e6b49680b1b4581		'refs/pull/82/head' of https://github.com/sporkrb/spork
+5736d23849043a803f1bf60454b1ec9d93428709		'refs/pull/89/head' of https://github.com/sporkrb/spork
+ed3e607c29895210e4fa2cbf854131250b141f20		'refs/pull/99/head' of https://github.com/sporkrb/spork
+b58847b659110651ab6b0e87af7e574cb3651b3f		tag '0.1' of https://github.com/sporkrb/spork
+f486245888b022d6b01307ac2749d4f43bc6f786		tag '0.2' of https://github.com/sporkrb/spork
+ec37f0ce9bf4ebc27397f5b8e23f9a3ac852caad		tag '0.3.0' of https://github.com/sporkrb/spork
+2d46a3f64472d7fa370969d9f688aaaee364c6b5		tag '0.4.0' of https://github.com/sporkrb/spork
+e1ed7e20ea8c5843cd46598627cb4769474906ad		tag '0.4.1' of https://github.com/sporkrb/spork
+ca2c8459b96a6cd96736e4c6f323892843d033d9		tag '0.4.2' of https://github.com/sporkrb/spork
+bebf95ffaec0574ccc1142c3af670a8ecb5b15d9		tag '0.4.3' of https://github.com/sporkrb/spork
+fc5e1d0773e0900d136ee2833cb0d26494349eff		tag '0.5.0' of https://github.com/sporkrb/spork
+db3c68f521b9511e6cd0461d5fc088a67f426e73		tag '0.5.1' of https://github.com/sporkrb/spork
+f2c92745caa40ac14406a1b3d960dfdca3ec4039		tag '0.5.11' of https://github.com/sporkrb/spork
+75acb61dcd6fec2a7faec2b90ded356153e86f03		tag '0.5.2' of https://github.com/sporkrb/spork
+7e72d5f6da43d0330a2000dc36a1356628e5b08a		tag '0.5.3' of https://github.com/sporkrb/spork
+5981fdf73ee80e5df50b0c327c2ecdbb3e3bfa8c		tag '0.5.4' of https://github.com/sporkrb/spork
+1c500da0df9030ace9eca6dee8d9fea26f8a7e09		tag '0.5.5' of https://github.com/sporkrb/spork
+98ec7db115cbe94cb2767839e2c8053bb06c5b48		tag '0.5.6' of https://github.com/sporkrb/spork
+ce042d5e6dff676e0394cd4b5b28199a5700dea2		tag '0.5.7' of https://github.com/sporkrb/spork
+b4b8a959afd7b1cdb18a2ea4775ce05aab144df3		tag '0.5.8' of https://github.com/sporkrb/spork
+6a33559326c25a54f855e7711cb9bfd308b3cb30		tag '0.5.9' of https://github.com/sporkrb/spork
+6cc1bff69cd648470dfc1749d194fd9857d1bd07		tag '0.6.0' of https://github.com/sporkrb/spork
+3d6ba77898bff4babbfccea4ac01a838ae6d00f0		tag '0.6.1' of https://github.com/sporkrb/spork
+97d3a01ce4ab02c37602ec4fbc9c3faabeb5f7d8		tag '0.6.2' of https://github.com/sporkrb/spork
+907d8c2d44310db92516cc8b6471ff19bd0537e7		tag '0.6.3' of https://github.com/sporkrb/spork
+7dcc02ef77fdefa99f8247194453a0d0797fad5c		tag '0.7.0' of https://github.com/sporkrb/spork
+b630818dce80e47d05f19aa6c08e53153655639c		tag '0.7.1' of https://github.com/sporkrb/spork
+72c5863b12fe21d4788060b1603d958898ffface		tag '0.7.2' of https://github.com/sporkrb/spork
+a04e402bf11b257c0750a07b15ab8e79f7693b64		tag '0.7.3' of https://github.com/sporkrb/spork
+cb185bcba7aabb3f3de7729d3d12a3288954d910		tag '0.7.5' of https://github.com/sporkrb/spork
+4abb53934d4de45025bdf370f9b8b4b1d8ab7e49		tag '0.7.6' of https://github.com/sporkrb/spork
+5b198b4297359e3787c4c5092fb5260249614c74		tag '0.7.8' of https://github.com/sporkrb/spork
+37e07736c1db096d77d840565d5af5275d5c4049		tag '0.8.0' of https://github.com/sporkrb/spork
+80cf9fbe81d50118cf2f9d282cfb2941a19baa63		tag '0.8.1' of https://github.com/sporkrb/spork
+f63b35ddff76d7bc9e4e034a1f8978d1c0df600b		tag '0.8.2' of https://github.com/sporkrb/spork
+60a3f547af10510bb76d89fbc907e47230718ea8		tag '0.8.4' of https://github.com/sporkrb/spork
+2eaf0394ee0e2126b249588cf37912cadc9090f0		tag '0.8.5' of https://github.com/sporkrb/spork
+9c7ddd4fb7194a757ccad9798910925293344100		tag '0.9.0.rc2' of https://github.com/sporkrb/spork
+bb5f17af2489b7fdb8552985b4c381aa69014217		tag '0.9.0.rc3' of https://github.com/sporkrb/spork
+1d14893ccde966d9caf6d6597ef313f8b46460c1		tag '0.9.0.rc4' of https://github.com/sporkrb/spork
+e1945017440f94e521e69c4bf824417c166af062		tag '0.9.0.rc5' of https://github.com/sporkrb/spork
+f29c4331b5646f4b41162d1002a37cb8fe97d8bf		tag '0.9.0.rc6' of https://github.com/sporkrb/spork
+3bba7f084a87e0a9211ac6d19df73cce1bf194fe		tag '0.9.0.rc7' of https://github.com/sporkrb/spork
+198ce03a84d99f11b9221a20a66b2189982e553a		tag '0.9.0.rc8' of https://github.com/sporkrb/spork
+897f52a9d2d3aaef83d90b84932b8aceaaf6f336		tag '0.9.0.rc9' of https://github.com/sporkrb/spork
+3286581cb9754fcaf80e78a8f80cbd5da436067a		tag '0.9.2' of https://github.com/sporkrb/spork
+5b550b368621419f565959ccda13a3dc37b55bc7		tag '1.0.0r2' of https://github.com/sporkrb/spork
+be0f443157ef7bfdcfc64f6fe781fc80cdca4c86		tag '1.0.0rc0' of https://github.com/sporkrb/spork

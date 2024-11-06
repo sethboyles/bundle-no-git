@@ -1,0 +1,24 @@
+# -*- encoding: utf-8 -*-
+# stub: spork 1.0.0rc4 ruby lib
+
+Gem::Specification.new do |s|
+  s.name = "spork".freeze
+  s.version = "1.0.0rc4".freeze
+
+  s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
+  s.require_paths = ["lib".freeze]
+  s.authors = ["Tim Harper".freeze, "Donald Parish".freeze]
+  s.date = "2024-11-06"
+  s.description = "A forking Drb spec server".freeze
+  s.email = ["timcharper+spork@gmail.com".freeze]
+  s.executables = ["spork".freeze]
+  s.extra_rdoc_files = ["MIT-LICENSE".freeze, "README.rdoc".freeze]
+  s.files = ["Gemfile".freeze, "MIT-LICENSE".freeze, "README.rdoc".freeze, "assets/bootstrap.rb".freeze, "bin/spork".freeze, "features/at_exit_during_each_run.feature".freeze, "features/diagnostic_mode.feature".freeze, "features/spork_debugger.feature".freeze, "features/steps".freeze, "features/steps/general_steps.rb".freeze, "features/steps/sandbox_steps.rb".freeze, "features/support".freeze, "features/support/background_job.rb".freeze, "features/support/bundler_helpers.rb".freeze, "features/support/env.rb".freeze, "features/support/spork_world.rb".freeze, "features/unknown_app_framework.feature".freeze, "lib/spork".freeze, "lib/spork.rb".freeze, "lib/spork/app_framework".freeze, "lib/spork/app_framework.rb".freeze, "lib/spork/app_framework/unknown.rb".freeze, "lib/spork/custom_io_streams.rb".freeze, "lib/spork/diagnoser.rb".freeze, "lib/spork/ext".freeze, "lib/spork/ext/ruby-debug.rb".freeze, "lib/spork/forker.rb".freeze, "lib/spork/gem_helpers.rb".freeze, "lib/spork/run_strategy".freeze, "lib/spork/run_strategy.rb".freeze, "lib/spork/run_strategy/forking.rb".freeze, "lib/spork/run_strategy/magazine".freeze, "lib/spork/run_strategy/magazine.rb".freeze, "lib/spork/run_strategy/magazine/magazine_slave.rb".freeze, "lib/spork/run_strategy/magazine/magazine_slave_provider.rb".freeze, "lib/spork/run_strategy/magazine/rinda_ring_finger_patch.rb".freeze, "lib/spork/run_strategy/magazine/ring_server.rb".freeze, "lib/spork/runner.rb".freeze, "lib/spork/server.rb".freeze, "lib/spork/test".freeze, "lib/spork/test/cucumber_helpers.rb".freeze, "lib/spork/test/test_helpers.rb".freeze, "lib/spork/test_framework".freeze, "lib/spork/test_framework.rb".freeze, "lib/spork/test_framework/cucumber.rb".freeze, "lib/spork/test_framework/rspec.rb".freeze, "spec/spec_helper.rb".freeze, "spec/spork".freeze, "spec/spork/app_framework".freeze, "spec/spork/app_framework/unknown_spec.rb".freeze, "spec/spork/app_framework_spec.rb".freeze, "spec/spork/diagnoser_spec.rb".freeze, "spec/spork/forker_spec.rb".freeze, "spec/spork/run_strategy".freeze, "spec/spork/run_strategy/forking_spec.rb".freeze, "spec/spork/runner_spec.rb".freeze, "spec/spork/server_spec.rb".freeze, "spec/spork/test_framework".freeze, "spec/spork/test_framework/cucumber_spec.rb".freeze, "spec/spork/test_framework/rspec_spec.rb".freeze, "spec/spork/test_framework_shared_examples.rb".freeze, "spec/spork/test_framework_spec.rb".freeze, "spec/spork_spec.rb".freeze, "spec/support".freeze, "spec/support/fake_framework.rb".freeze, "spec/support/fake_run_strategy.rb".freeze, "spec/support/should_include_a_string_like.rb".freeze, "spec/support/test_io_streams.rb".freeze, "spec/support/tmp_project_helpers.rb".freeze]
+  s.homepage = "http://github.com/sporkrb/spork".freeze
+  s.rdoc_options = ["--main".freeze, "README.rdoc".freeze]
+  s.rubygems_version = "3.5.22".freeze
+  s.summary = "spork".freeze
+  s.test_files = ["features/at_exit_during_each_run.feature".freeze, "features/diagnostic_mode.feature".freeze, "features/spork_debugger.feature".freeze, "features/steps".freeze, "features/steps/general_steps.rb".freeze, "features/steps/sandbox_steps.rb".freeze, "features/support".freeze, "features/support/background_job.rb".freeze, "features/support/bundler_helpers.rb".freeze, "features/support/env.rb".freeze, "features/support/spork_world.rb".freeze, "features/unknown_app_framework.feature".freeze, "spec/spec_helper.rb".freeze, "spec/spork".freeze, "spec/spork/app_framework".freeze, "spec/spork/app_framework/unknown_spec.rb".freeze, "spec/spork/app_framework_spec.rb".freeze, "spec/spork/diagnoser_spec.rb".freeze, "spec/spork/forker_spec.rb".freeze, "spec/spork/run_strategy".freeze, "spec/spork/run_strategy/forking_spec.rb".freeze, "spec/spork/runner_spec.rb".freeze, "spec/spork/server_spec.rb".freeze, "spec/spork/test_framework".freeze, "spec/spork/test_framework/cucumber_spec.rb".freeze, "spec/spork/test_framework/rspec_spec.rb".freeze, "spec/spork/test_framework_shared_examples.rb".freeze, "spec/spork/test_framework_spec.rb".freeze, "spec/spork_spec.rb".freeze, "spec/support".freeze, "spec/support/fake_framework.rb".freeze, "spec/support/fake_run_strategy.rb".freeze, "spec/support/should_include_a_string_like.rb".freeze, "spec/support/test_io_streams.rb".freeze, "spec/support/tmp_project_helpers.rb".freeze]
+
+  s.installed_by_version = "3.5.22".freeze
+end
